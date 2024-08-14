@@ -1,0 +1,7 @@
+Criteria: 
+
+For the time being return the values of:
+
+1. Number of letters (excluding blankspaces)
+2. The sum of ascii codes of each letter (excluding blankspaces)
+3. The sum of each binary value of each letter (excluding blankspaces)
